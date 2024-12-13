@@ -1,0 +1,2 @@
+class RectCorrectError(Exception):
+    pass
